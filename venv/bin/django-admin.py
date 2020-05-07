@@ -1,4 +1,4 @@
-#!/home/vchivu/OYO/django-tutorials/project0/venv/bin/python3
+#!/home/vchivu/OYO/django-tutorials/pollspack/venv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
