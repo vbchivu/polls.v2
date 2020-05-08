@@ -1,4 +1,4 @@
-# polls - reusable
+# polls
 
 <h2>Reusable app from Django's Website</h2>
 <h4>Just Python3 and Django</h4>
