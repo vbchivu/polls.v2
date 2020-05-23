@@ -15,4 +15,4 @@
   <li>check localhost:8000/polls</li>
 </ol>
 <h5>Create a superuser as admin to add more Questions</h5>
-<link>https://docs.djangoproject.com/en/3.0/intro/tutorial02/<link>
+<link>https://docs.djangoproject.com/en/3.0/intro/reusable-apps/<link>
