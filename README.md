@@ -1,4 +1,4 @@
-# polls
+# polls-version2-(separate polls package)
 
 <h2>Reusable app from Django's Website</h2>
 <h4>Just Python3 and Django</h4>
