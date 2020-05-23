@@ -4,8 +4,8 @@
 <h4>Just Python3 and Django</h4>
 <p>Steps:</p>
 <ol>
-  <li>git clone https://github.com/vchivu14/polls.git</li>
-  <li>cd polls</li>
+  <li>git clone https://github.com/vchivu14/polls.v2.git</li>
+  <li>cd polls.v2</li>
   <li>python3 -m venv venv</li>
   <li>source venv/bin/activate</li>
   <li>pip install -r requirements.txt</li>
