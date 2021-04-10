@@ -1,6 +1,5 @@
 # polls.v2
 
-<h2>Modularized app following Django's website instructions</h2>
 <h4>Python3 and Django</h4>
 <p>Steps:</p>
 <ol>
@@ -14,4 +13,4 @@
   <li>python3 manage.py runserver</li>
   <li>check localhost:8000/polls</li>
 </ol>
-<link>https://docs.djangoproject.com/en/3.0/intro/reusable-apps/<link>
+<h5>This is a project from https://docs.djangoproject.com/en/3.0/intro/</h5>
